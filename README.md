@@ -3,8 +3,11 @@ In this repository contains content from my CSharp classes. Forms Relationship, 
 Subjects covered in class:
 
 <ul>
-  <li>Label, TextBox and Button objects</li>
-  <li>Naming objects
+  <li>Label, TextBox and Button Objects
+  <li>Appointment of objects
   <li>ScroolBar Object
-  <li>Types of data and type conversions
+  <li>Types of Data and Type Conversions
+  <li>Arithmetic Operators
+  <li>Conditional Structure, Logical Operators
+  <li>Data Entry Consistency
 </ul>
