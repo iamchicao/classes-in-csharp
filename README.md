@@ -10,4 +10,5 @@ Subjects covered in class:
   <li>Arithmetic Operators
   <li>Conditional Structure, Logical Operators
   <li>Data Entry Consistency
+  <li>Consistency of data entry
 </ul>
