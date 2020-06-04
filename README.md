@@ -12,4 +12,7 @@ Subjects covered in class:
   <li>Data Entry Consistency
   <li>Consistency of data entry
   <li>Checkbox e RadioButton
+  <li>Special character typing block
+  <li>Repeat structures
+  <li>Logical operators
 </ul>
